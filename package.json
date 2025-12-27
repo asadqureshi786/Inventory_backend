@@ -15,5 +15,13 @@
     "crypto-js": "^4.2.0",
     "express": "^5.2.1",
     "nodemon": "^3.1.11"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/asadqureshi786/Inventory_backend.git"
+  },
+  "bugs": {
+    "url": "https://github.com/asadqureshi786/Inventory_backend/issues"
+  },
+  "homepage": "https://github.com/asadqureshi786/Inventory_backend#readme"
 }
